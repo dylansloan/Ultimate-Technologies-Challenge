@@ -52,7 +52,9 @@ Include any key indicators of model performance.
 3. Briefly discuss how Ultimate might leverage the insights gained from the model to
 improve its longterm
 rider retention (again, a few sentences will suffice).
+
 Data description
+
 ● city: city this user signed up in
 ● phone: primary device for this user
 ● signup_date: date of account registration; in the form ‘YYYY MM DD’
